@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.UnitConvertor" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:colorPrimaryDark">#CFBEB3</item>
+        <item name="android:colorPrimary">#CFBEB3</item>
+
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>
